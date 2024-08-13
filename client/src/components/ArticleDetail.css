@@ -1,0 +1,14 @@
+/* src/components/BlogDetail.css */
+.article-detail {
+    padding: 20px;
+  }
+  
+  .article-detail h1 {
+    text-align: center;
+  }
+  
+  .article-detail img {
+    max-width: 100%;
+    height: auto;
+  }
+  

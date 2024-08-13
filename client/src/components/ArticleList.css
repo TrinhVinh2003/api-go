@@ -1,0 +1,38 @@
+
+.article-list {
+    padding: 20px;
+  }
+  
+.article-list h1 {
+text-align: center;
+}
+
+.article-list ul {
+list-style-type: none;
+padding: 0;
+}
+
+.article-list li {
+border: 1px solid #ddd;
+margin-bottom: 10px;
+padding: 10px;
+}
+li{
+display: flex;
+width: 100%;
+}
+li img{
+width: 240px;
+}
+li div{
+width: 50%;
+}
+.article-list a{
+width: 300px;
+text-decoration: none;
+
+
+}
+h2{
+color: #000;
+}
